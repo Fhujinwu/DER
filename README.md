@@ -10,7 +10,7 @@
 </p>
 
 ## 📌 Note
-We appreciate your interest in DER. The code and dataset are currently being prepared and are expected to be released prior to the IJCAI 2025 conference.
+We appreciate your interest in DER. The code and dataset are currently being prepared and are expected to be released.
 
 
 ## 🔥News
