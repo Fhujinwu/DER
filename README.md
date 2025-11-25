@@ -27,14 +27,7 @@ conda create --name DER --yes python=3.11
 conda activate DER
 TODO
 ```
-## 🗂 Data Selection
-TODO
 
-## 🔨 Training
-TODO
-
-## ⚖️ Evaluation
-TODO
 
 ## 💬 Citation
 Thanks for the open-source code of [Tianshou](https://github.com/thu-ml/tianshou).
